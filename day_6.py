@@ -37,4 +37,4 @@ def six2():
     return sum(grid.values())
 
 print("Day 6, Part 1 - Lights:", six1())
-print("Day 6, Part 2 - Birghtness: ", six2())
+print("Day 6, Part 2 - Brightness: ", six2())

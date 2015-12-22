@@ -41,5 +41,5 @@ def circuit(part=1):
                 signals[destination] = parts[0]
     return signals['a']
 
-print("Day 7, Part 1 - Lights:", circuit(1))
-print("Day 7, Part 2 - Birghtness: ", circuit(2))
+print("Day 7, Part 1 - Signal:", circuit(1))
+print("Day 7, Part 2 - Signal (b changed): ", circuit(2))
