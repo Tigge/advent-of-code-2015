@@ -14,3 +14,6 @@ import day_13
 import day_14
 import day_15
 import day_16
+import day_17
+import day_18
+import day_19
